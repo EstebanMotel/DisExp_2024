@@ -1,2 +1,12 @@
-# DisExp_2024
+# Repositorio Curso Diseños Experimentales 2024
+
+## Descripción del curso
 Repositorio para almacenar los scripts de los diferentes diseños experimentales
+
+### Contenido del curso:
++ Práctica 1 (08/04/2024) Crear nueva cuenta de Github
++ Práctica 2 (10/04/2024) Crear primer proyecto en R y sincronizar con Github
+
+### Laboratorios
+
+### Tareas
