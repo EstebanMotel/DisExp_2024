@@ -7,6 +7,12 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 + Práctica 1 (08/04/2024) Crear nueva cuenta de Github
 + Práctica 2 (10/04/2024) Crear primer proyecto en R y sincronizar con Github
 
-### Laboratorios
+### Ejercicios
++ Laboratorio 1
++ 
++
++
+
 
 ### Tareas
++ 
