@@ -16,4 +16,7 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 
 ### Tareas
 + Tarea 2
+
+
+
 ![image](https://github.com/EstebanMotel/DisExp_2024/assets/166637280/04fd87dc-7682-4b4f-b945-2aeaa4f7ae2c)
