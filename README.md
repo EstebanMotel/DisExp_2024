@@ -15,6 +15,7 @@ Repositorio para almacenar los scripts de los diferentes diseños experimentales
 + Laboratorio 1: Primera sesión con R y RStudio
 
 ### Tareas
++ Tarea 1
 + Tarea 2
 
 
